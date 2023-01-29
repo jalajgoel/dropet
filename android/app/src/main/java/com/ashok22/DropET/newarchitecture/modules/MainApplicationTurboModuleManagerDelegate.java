@@ -1,4 +1,4 @@
-package com.user.DropET.newarchitecture.modules;
+package com.ashok22.DropET.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

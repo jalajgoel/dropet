@@ -7,7 +7,7 @@
       "**/*"
     ],
     "android": {
-      "package": "com.user.DropET",
+      "package": "com.ashok22.DropET",
       "config": {
         "googleMaps": {
           "apiKey": "AIzaSyArRzxLNop05ro2lVfIs-uTFpaxwvIiky4"
@@ -18,7 +18,7 @@
       "config": {
         "googleMapsApiKey": "AIzaSyArRzxLNop05ro2lVfIs-uTFpaxwvIiky4"
       },
-      "bundleIdentifier": "com.user.DropET"
+      "bundleIdentifier": "com.ashok22.DropET"
     }
   }
 }

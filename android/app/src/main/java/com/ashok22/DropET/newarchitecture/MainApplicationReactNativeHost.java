@@ -1,4 +1,4 @@
-package com.user.DropET.newarchitecture;
+package com.ashok22.DropET.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -20,9 +20,9 @@ import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.user.DropET.BuildConfig;
-import com.user.DropET.newarchitecture.components.MainComponentsRegistry;
-import com.user.DropET.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.ashok22.DropET.BuildConfig;
+import com.ashok22.DropET.newarchitecture.components.MainComponentsRegistry;
+import com.ashok22.DropET.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

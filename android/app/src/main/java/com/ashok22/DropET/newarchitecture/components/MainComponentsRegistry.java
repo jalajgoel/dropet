@@ -1,4 +1,4 @@
-package com.user.DropET.newarchitecture.components;
+package com.ashok22.DropET.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;
