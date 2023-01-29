@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Drop-ET",
+    "slug": "Drop-ET",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.user.DropET",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyArRzxLNop05ro2lVfIs-uTFpaxwvIiky4"
+        }
+      }
+    },
+    "ios": {
+      "config": {
+        "googleMapsApiKey": "AIzaSyArRzxLNop05ro2lVfIs-uTFpaxwvIiky4"
+      },
+      "bundleIdentifier": "com.user.DropET"
+    }
+  }
+}
